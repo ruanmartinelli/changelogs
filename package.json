@@ -4,12 +4,13 @@
   "version": "1.0.0",
   "dependencies": {
     "@nestjs/core": "latest",
+    "@ruanmartinelli/prettier-config": "latest",
     "fastify": "latest",
     "fastify-swagger": "latest",
     "jest": "latest",
+    "next": "latest",
     "npm": "latest",
     "prettier": "latest",
-    "next": "latest",
     "tailwindcss": "latest"
   }
 }
