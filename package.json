@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "@nestjs/core": "latest",
+    "fastify": "latest",
+    "fastify-swagger": "latest",
+    "jest": "latest",
+    "npm": "latest",
+    "prettier": "latest",
+    "next": "latest",
+    "tailwindcss": ">=1.0.0"
+  }
+}
