@@ -4,13 +4,28 @@
   "version": "1.0.0",
   "dependencies": {
     "@nestjs/core": "latest",
+    "@npmcli/arborist": "latest",
     "@ruanmartinelli/prettier-config": "latest",
+    "apollo-server": "latest",
+    "apollo-server-fastify": "latest",
+    "ava": "latest",
+    "axios": "latest",
+    "eslint": "latest",
+    "express": "latest",
     "fastify": "latest",
     "fastify-swagger": "latest",
+    "firebase-admin": "latest",
+    "firebase-tools": "latest",
+    "graphql": "latest",
     "jest": "latest",
+    "koa": "latest",
+    "moment": "latest",
     "next": "latest",
     "npm": "latest",
+    "objection": "latest",
     "prettier": "latest",
-    "tailwindcss": "latest"
+    "react": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
   }
 }
